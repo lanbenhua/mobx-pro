@@ -1,0 +1,30 @@
+{
+  "name": "mobx-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanbenhua/mobx-pro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanbenhua/mobx-pro/issues"
+  },
+  "homepage": "https://github.com/lanbenhua/mobx-pro#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "tslib": "^2.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "mobx": "^6.8.0"
+  }
+}
